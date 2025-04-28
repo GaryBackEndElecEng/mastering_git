@@ -1,11 +1,4 @@
-## hello GIT
-
-- track files:=> git add filename
-  addin this to
-
-  ## adding this using branch:branch-name
-
-  ### https://www.youtube.com/watch?v=S7XpTAnSDL4
+### https://www.youtube.com/watch?v=S7XpTAnSDL4
 
 ## hello GIT
 
